@@ -11,8 +11,6 @@ mouseInfo()
 
 '''
 
-
-
 #Posição e clicando em algo
 
 '''pyautogui.moveTo(576,571,duration=1)
@@ -21,8 +19,6 @@ for i in range(0,1):
     pyautogui.click()
 
 #pyautogui.move(1900,0,duration=2)'''
-
-
 
 
 
@@ -58,3 +54,10 @@ pyautogui.rightClick()
 pyautogui.middleClick()
 pyautogui.tripleClick()
 '''
+
+#criando pasta sozinho
+
+
+
+
+
